@@ -112,6 +112,10 @@ M. musculus,Italy,Salina,38.5667,14.8667,10,Island,2005-2023,Arg61Gln (2 HET),-,
 M. musculus,Italy,Lipari,38.4639,14.9539,5,Island,2005-2023,"Arg61Gln (1 HET), Tyr139Cys (1 HET, 2 HOM)","20%, 60%","Unknown, Confirmed",https://dx.doi.org/10.1002/ps.8652
 M. musculus,Italy,Stromboli,38.7894,15.2139,2,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
 M. musculus,Italy,Vulcano,38.4044,14.9625,9,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+M. m. domesticus,Kerguelen Archipelago,Cochon,-49.4772,70.0475,4,Island,2026,No Mutations,-,No resistance,This study
+M. m. domesticus,Kerguelen Archipelago,Guillou,-49.4833,69.8167,13,Island,2026,No Mutations,-,No resistance,This study
+M. m. domesticus,Kerguelen Archipelago,Isthme Bas,-49.4,70.3,14,Island,2026,No Mutations,-,No resistance,This study
+M. m. domesticus,Kerguelen Archipelago,Port-aux-Français,-49.35,70.219,3,Island,2026,No Mutations,-,No resistance,This study
 Mus musculus,Lebanon,North Lebanon,34.4367,35.8497,3,N/A,2018-2019,Tyr139Cys (2),66%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
 Mus musculus,Lebanon,Mount Lebanon,33.8833,35.5833,23,N/A,2018-2019,Leu128Ser (8),35%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
 Mus musculus,Lebanon,South Lebanon,33.2744,35.2038,2,N/A,2018-2019,Leu128Ser (1),50%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
