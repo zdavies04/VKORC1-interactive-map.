@@ -1,0 +1,376 @@
+Species,Country,Location,Latitude,Longitude,Sample_Size,Sample_Site,Date_Collected,Mutations,Percent_With_Mutation,Resistance_Type,DOI
+M. musculus,Argentina,"Exaltacion de la Cruz Department, NW Buenos Aires Province, Argentina",-34.3,-59.2333,37,Six poultry farms,2007,Not genetically tested,-,Suspected,https://dx.doi.org/10.1002/ps.1850
+M. musculus,Argentina,"Diego Gaynor and Capilla del Senor, Buenos Aires Province, Argentina",-34.2667,-59.2167,20,Poultry farms,2011,No mutations,-,No resistance,http://ri.agro.uba.ar/files/download/articulo/2013espinosa.pdf
+M. musculus,Argentina,"Exaltacion de la Cruz Department, NW Buenos Aires Province, Argentina",-34.25,-59.25,53,Poultry farms,2014,Not genetically tested,-,Suspected,https://dx.doi.org/10.1080/09670874.2018.1538543
+M. m. domesticus,Australia,Perth,-31.95,115.85,34,City,2020,No mutations,-,No resistance,https://doi.org/10.1371/journal.pone.0236234
+M. m. domesticus,Azores,Terceria,38.7197,-27.22,20,Island,2004-2009,"Leu128Ser+Tyr139Cys (4), Leu128Ser (1), Tyr139Cys (15)","20%, 10%, 75%",Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Azores,Sao Miguel,37.7686,-25.4963,14,Island,2004-2009,Tyr139Cys (5),36%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. musculus,Bulgaria,Stara Zagora region,42.4258,26.6345,67,Farms,N/A,Not genetically tested,-,Suspected,https://doi.org/10.2478/macvetrev-2019-0010
+M. musculus,Canada,Ontario,50.001,-85.001,77,City,2026,"Leu128Ser (13), Tyr139Cys (25), Leu128Ser+Tyr139Cys (14)",99%,Confirmed,https://doi.org/10.64898/2026.04.12.718056
+M. m. musculus,Czech Republic,Nebanice,50.1152831,12.475925,2,Grain store,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Litomerice,50.5316236,14.1362258,2,Mill,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Podbořany,50.2144225,13.3955108,1,Grain store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Teplice,50.6604653,13.8352497,1,Grain store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Plzen,49.7517897,13.3922661,2,Brewery,2018-2023,"Tyr139Phe (1 HOM, 1 HET)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Domazlice,49.4300978,12.9504972,1,Grain store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Chotimer,49.5067858,13.0247131,2,Grain store,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Radimovice,50.6257842,15.0795375,1,Feed store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Liberec,50.7472678,15.0781947,1,Bakery,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Lotous,50.2499333,14.0251181,2,Feed store,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Bustehrad,50.1494372,14.1965822,2,Grain store,2018-2023,Tyr139Phe (1 HOM),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Vysinek,50.2970969,14.0658314,1,Feed store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Veleliby,50.2081172,15.0238514,1,Seed store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Votice,49.6409286,14.6225017,2,Grain store,2018-2023,"Tyr139Phe (1 HET, 1 HOM)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Milin,49.6333492,14.0320133,2,Grain store,2018-2023,"Tyr139Phe (1 HET), Phe55Val (2 HET)",50%,"Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Rozmital pod tremsinem,49.6029958,13.8812525,2,Grain store,2018-2023,"Tyr139Phe (2 HOM), Arg58Trp (2 HET)",100%,"Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Jablonna,49.6590397,14.1408467,2,Grain store,2018-2023,Phe55Val (2 HET),100%,Unknown,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Sedlcany,49.6486897,14.4271808,4,Grain store,2018-2023,"Tyr139Phe (1 HET, 3 HOM), Phe55Val (1 HET)","25%, 75%","Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Uhrineves,50.0326117,14.6027597,2,Grain store,2018-2023,"Tyr139Phe (1 HOM, 1 HET)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Praha,50.0855781,14.2969506,2,Grain store,2018-2023,"Tyr139Phe (1 HOM, 1 HET)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Radosovice,49.2374456,13.9067103,2,Grain store,2018-2023,Tyr139Phe (1 HET),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Nachod,50.4223292,16.1843094,1,Bakery,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Hradec Kralove,50.2162825,15.8680353,2,Bakery,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Chlumec nad cidlinou,50.1495556,15.4855633,2,Seed store,2018-2023,Tyr139Phe (1 HOM),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Krovice,50.3101858,16.1593639,1,Waste dump,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Trutnov,50.5736964,15.89438,2,Bakery,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Stare Nechanice,50.2413358,15.6247878,2,Grain store,2018-2023,"Tyr139Phe (1 HOM, 1 HET)","50, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Lazne Belohrad,50.4346328,15.5844317,1,Grain store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Vysoke Myto,49.9604547,16.1478478,2,Bakery,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Chocen,50.0109917,16.2150083,2,Seed store,2018-2023,"Tyr139Phe (1 HOM), Ala115Thr (1 HOM)",50%,"Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,České Libchavy,50.0330164,16.3587244,1,Waste dump,2018-2023,Trp59Arg (1 HET),100%,Unknown,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Letohrad,50.0277497,16.5232231,2,Feed store,2018-2023,Tyr139Phe (1 HET),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Zamberk,50.0722814,16.4594586,2,Grain store,2018-2023,"Tyr139Phe (1 HOM), Trp59Arg (1 HET), Ala115Thr (1 HET)",50%,"Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Chotebor,49.7126575,15.68161,2,Seed store,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Okarec,49.2028186,16.0919431,1,Grain store,2018-2023,No Mutations,-,No resistance,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Stránecká Zhoř,49.3794911,15.9280103,1,Grain store,2018-2023,No Mutations,-,No resistance,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Budisov,49.2659053,16.0068992,2,Grain store,2018-2023,"Tyr139Phe (1 HET, 1 HOM)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Chlumek,49.3745142,15.8565453,2,Farm,2018-2023,"Tyr139Phe (1 HET, 1 HOM)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Janovice,49.4819653,15.786075,2,Farm,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Nova Dedina,49.8037814,17.1211108,2,Feed store,2018-2023,"Tyr139Phe (1 HOM), Ala26Pro (1 HET)",100%,"Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Stare Mesto pod Sneznikem,50.1642322,16.9427022,2,Farm,2018-2023,"Tyr139Phe (1 HET, 1 HOM), Ala26Pro (1 HET), Trp59Cys (1 HOM, 1 HET)","50%, 50%, 50%, 50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Kyjov,49.0115406,17.1232653,2,Mill,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Mikulov,48.7881094,16.6794997,1,Seed store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Velke Hosteradky,49.0410289,16.8639903,2,Farm,2018-2023,"Tyr139Phe (1 HET, 1 HOM), Trp59Cys (2 HET), Asp36His (1 HET)","50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Drnholec,48.8644211,16.4703244,2,Grain store,2018-2023,Tyr139Phe (1 HOM),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Opava,49.9118353,17.9685769,2,Grain store,2018-2023,"Tyr139Phe (1 HET, 1 HOM), Arg61Trp (1 HET)","50%, 50%","Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Heřmanovice,50.1993333,17.3831122,2,Farm,2018-2023,"Ser52Tyr (1 HET), Ala115Thr (1 HOM)","50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Dolni Lhota,49.1363375,17.8084503,2,Grain store,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Martinice,49.3093247,17.6135439,2,Feed store,2018-2023,"Tyr139Phe (1 HET), Gly2Ala (1 HET)","50%, 50%","Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. domesticus,Denmark,Denmark,56.2639,9.5018,160,N/A,1972,Not genetically tested,-,Suspected,https://doi.org/10.1016/0006-2952(94)90130-9
+M. m. domesticus,Finland,Salo,60.3839,23.1305,6,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,100%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Somero,60.6333,23.5167,11,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,55%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Jokioinen,60.8056,23.4833,6,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,100%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Turku,60.4518,22.2666,3,Urban,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,100%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Loimaa,60.8478,23.0547,4,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,25%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Koski,60.6558,23.1278,6,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,50%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,Finland,Punkalaidun,61.1139,23.1028,12,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,50%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
+M. m. domesticus,France,Brittany,48.202,-2.9326,31,N/A,2016,"Trp59Gly (2 HOM), Leu124Met (4 HET, 7 HOM), Trp59Gly + Leu124Met (6 HOM)"," 6.5%, 35%, 19%",Suspected,https://doi.org/10.1002/ece3.2829
+M. m. domesticus,France,North,50.6292,3.0573,82,N/A,2016,"Ala26Thr (1 HET, 3 HOM), Leu128Ser (7 HET, 28 HOM), Ala26Thr + Leu128Ser (3 HET, 14 HOM), Tyr139Cys (6 HET, 4 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (7 HOM), Ala26Ser + Arg61Leu (1 HOM), Ala26Ser + Leu128Ser (2 HOM)","4.9%, 43%, 21%, 12%, 8.5%, 1.2%, 2.4%","Suspected, Confirmed, Suspected, Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
+M. m. domesticus,France,Marne,48.9633,4.3667,6,N/A,2016,"Trp59Gly (2 HOM), Leu128Ser (2 HET), Trp59Gly + Leu128Ser (1 HOM)","33%, 33%, 16%","Suspected, Confirmed, Suspected",https://doi.org/10.1002/ece3.2829
+M. m. domesticus,France,South West,44.8378,-0.5792,29,N/A,2016,"Tyr139Cys (1 HET, 4 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1 HET)","17%, 3.4%","Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
+M. m. domesticus,France,South East,43.2965,5.3698,118,N/A,2016,"Ala26Ser (1 HOM), Leu128Ser (7 HET, 4 HOM), Tyr139Cys (8 HET, 18 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (3 HET, 50 HOM)","0.8%, 9.3%, 22%, 45%","Suspected, Confirmed, Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
+M. m. domesticus,Germany,Achim (AC),53.01,9.03,1,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Leu128Ser (1),100%,Suspected,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Ahlen,51.7633,7.89,13,N/A,2004-2009,Trp59Leu (12),91.70%,Suspected,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Altenpleen (Al),54.28,13.1,8,N/A,2004-2009,Tyr139Cys (8),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Berlin-Charlottenburg,52.52,13.3,13,N/A,2004-2009,Glu37Gly (12),91.70%,Unknown,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Berlin-Prenzlauer Berg,52.5367,13.4189,1,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Leu128Ser (1),100%,Suspected,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Bochum,51.4819,7.2162,4,N/A,2004-2009,"Leu128Ser (1), Leu128Ser+Tyr139Cys (2), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1)","25%, 50%, 25%","Confirmed, Suspected, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Bonn,50.7374,7.0982,4,N/A,2004-2009,"none (1), Leu128Ser (2), Tyr139Cys (1)","50%, 25%","No resistance, Confirmed, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Datteln,51.6547,7.3394,1,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Dortmund,51.5136,7.4653,13,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (13),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Dresden,51.0504,13.7373,11,N/A,2004-2009,Leu128Ser (11),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Ennigerloh,51.8333,8.0333,13,N/A,2004-2009,"none (1), Tyr139Cys (12)",91.70%,"No resistance, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Frankfurt am Main,50.1109,8.6821,1,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Gelsenkirchen,51.5177,7.0857,5,N/A,2004-2009,Leu128Ser (5),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Hamm,51.68,7.8167,9,N/A,2004-2009,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (6), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Leu128Ser (3)","67%, 33%","Confirmed, Suspected",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Kalkar,51.74,6.29,9,N/A,2004-2009,"none (1), Leu128Ser (6), Leu124Gln+Leu128Ser (2)","67%,  22%","No resistance, Confirmed, Suspected",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Cologne,50.9333,6.95,27,N/A,2004-2009,Leu128Ser (27),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Lunen,51.6167,7.5333,5,N/A,2004-2009,"Leu128Ser (1), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (3), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Leu128Ser (1)","20%, 60%, 20%","Confirmed, Confirmed, Suspected",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Magdeburg,52.1205,11.6276,81,N/A,2004-2009,"none (17), Leu128Ser (64)",79%,"No resistance, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Neumunster,54.0714,9.9878,2,N/A,2004-2009,Leu128Ser (2),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Oer-Erkenschwick,51.6333,7.25,1,N/A,2004-2009,Leu128Ser (1),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Radolfzell,47.737,8.968,52,N/A,2004-2009,No Mutations,-,No resistance,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Saarbrucken,49.2333,7,26,N/A,2004-2009,"Trp59Ser (2), Leu128Ser (16), Leu128Ser+Tyr139Cys (4)","8%, 62%, 15%","Unknown, Confirmed, Suspected",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Sassenberg,51.9833,8.05,21,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Arg58Gly,5%,Suspected,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Stuttgart,48.7775,9.18,20,N/A,2004-2009,"Leu128Ser (15), Arg12Trp+Ala26Ser+Ala48Thr+Leu128Ser (4), Arg12Trp+Ala26Ser+Ala48Thr+Tyr139Cys (1)","75%, 20%, 5%","Confirmed, Suspected, Suspected",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Germany,Wesseling,50.8333,6.9667,11,N/A,2004-2009,Leu128Ser (11),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Greece,Greece,39,22,7,N/A,2011,No mutations,-,No resistance,https://doi.org/10.1016/j.cub.2011.06.043
+M. m. domesticus,Ireland,Dublin,53.3498,-6.2603,23,"Farm, ILAC Centre, Tesco, Food warehouse, Musgraves, Factory (Engineering), House",2015-2017,"Leu128Ser (9 HET, 5 HOM) Tyr139Cys (8 HET, 3 HOM)","39%, 21%, 35%, 13%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
+M. m. domesticus,Ireland,Kildare,53.1593,-6.9109,10,"Bakery, Business park, Bakery",2015-2017,Leu128Ser (4 HET) Tyr139Cys (2 HET),"40%, 20%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
+M. m. domesticus,Ireland,Meath,53.6055,-6.6564,7,"Factory (Engineering), Ardboyne Hotel, Factory (Milk products), Food premises",2015-2017,"Leu128Ser (4 HET, 1 HOM) Tyr139Cys (5 HET, 4 HOM)","57%, 14%, 71%, 57%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
+M. m. domesticus,Ireland,Tipperary,52.4733,-8.1619,1,Farm,2015-2017,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-018-22815-7
+M. m. domesticus,Ireland,Wexford,52.3369,-6.4633,9,"Glanbia, Food premises",2015-2017,"Leu128Ser (4 HET, 1 HOM)","44%, 11%",Confirmed,https://doi.org/10.1038/s41598-018-22815-7
+M. musculus,Italy,Emilia-Romagna region,44.4938,11.3387,8,N/A,2023,"Tyr139Cys (4 HET, 1 HOM), Leu128Ser (3 HET, 1 HOM), Phe87Leu (1 HET), Cys85Arg (1 HET), Gln78His (1 HET)","63%,50%, 13%, 13%, 13%","Confirmed, Confirmed, Unknown, Unknown, Unknown",https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Pantelleria,36.8333,11.95,17,Island,2005-2023,"Tyr139Cys (1 HET), Ser149Ile (5 HET, 1  HOM), Gln151His (1 HET), Glu155Lys (6 HET, 1 HOM), Lys157Asn (1 HET)","6%, 35%, 6%, 41%, 6%","Confirmed, Unknown, Unknown, Unknown, Unkown",https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Ventotene,40.7972,13.4267,14,Island,2005-2023,"Tyr139Cys (5 HET), Ser149Asn (1 HET), Glu155Lys (2 HET)","36%, 7%, 14%","Confirmed, Unknown, Unknown",https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,S. Domino,42.1167,15.4833,10,Island,2005-2023,"Tyr139Cys (7 HET, 1 HOM), Glu155Lys (1 HET)",80% 10%,"Confirmed, Unknown",https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,S. Nicola,42.1,15.5,3,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Alicudi,38.5392,14.3494,5,Island,2005-2023,Val114Phe (1 HET),20%,Unknown,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Filicudi,38.5667,14.5667,2,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Panarea,38.6333,15.0667,5,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Salina,38.5667,14.8667,10,Island,2005-2023,Arg61Gln (2 HET),-,Unknown,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Lipari,38.4639,14.9539,5,Island,2005-2023,"Arg61Gln (1 HET), Tyr139Cys (1 HET, 2 HOM)","20%, 60%","Unknown, Confirmed",https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Stromboli,38.7894,15.2139,2,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+M. musculus,Italy,Vulcano,38.4044,14.9625,9,Island,2005-2023,No mutations,-,No resistance,https://dx.doi.org/10.1002/ps.8652
+Mus musculus,Lebanon,North Lebanon,34.4367,35.8497,3,N/A,2018-2019,Tyr139Cys (2),66%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
+Mus musculus,Lebanon,Mount Lebanon,33.8833,35.5833,23,N/A,2018-2019,Leu128Ser (8),35%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
+Mus musculus,Lebanon,South Lebanon,33.2744,35.2038,2,N/A,2018-2019,Leu128Ser (1),50%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
+Mus musculus,Lebanon,Bekaa,33.8467,35.9022,2,N/A,2018-2019,"Tyr139Cys (1), Leu128Ser (1)","50%, 50%","Confirmed, Confirmed",https://dx.doi.org/10.1038/s41598-022-26638-5
+M. macedonicus,Lebanon,Ghazir,33.9833,35.65,1,N/A,2018-2019,Tyr139Cys,100%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
+M. macedonicus,Lebanon,Ouwaynat,34.6333,36.3,1,N/A,2018-2019,no mutations,-,No resistance,https://dx.doi.org/10.1038/s41598-022-26638-5
+M. macedonicus,Lebanon,Zahle,33.85,35.9,1,N/A,2018-2019,Ala72Val,100%,Unknown,https://dx.doi.org/10.1038/s41598-022-26638-5
+M. musculus,Martinique,Martinique,14.6415,-61.0242,55,Island,2015,"Ala26Thr (1), Ala26Thr+Tyr139Cys (1), Ala48Thr+Arg61Leu (1), Tyr139Cys (31), Ser149Asn (1)","1.8%, 1.8%, 1%, 56%, 1.8%","Unknown, Suspected, Unknown, Confirmed, Unknown",https://doi.org/10.1038/s41598-019-49661-5
+M. musculus,Netherlands,Postal Code: 10,52.37,4.9,17,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 11,52.38,4.91,24,N/A,2020-2021,Tyr139Cys (1 HET),4.20%,"No resistance, Confirmed",https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 12,52.39,4.92,3,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 13,52.4,4.93,36,N/A,2020-2021,"Tyr 139Cys (2 HOM, 15 HET)","5.5%, 42%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 15,52.41,4.94,2,N/A,2020-2021,Tyr139Cys (1 HET),50%,"No resistance, Confirmed",https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 17,52.42,4.95,17,N/A,2020-2021,"Tyr 139Cys (9 HOM, 5 HET)","53%, 29%",Warfarin Coumatetralyl Chlorophacinone Bromadiolone,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 18,52.43,4.96,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 19,52.44,4.97,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 20,52.45,4.98,3,N/A,2020-2021,"Tyr 139Cys (1 HOM, 2 HET)","33%, 67%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 22,52.46,4.99,1,N/A,2020-2021,Tyr 139Cys (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 24,52.47,5,2,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 28,52.48,5.01,9,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 30,52.49,5.02,14,N/A,2020-2021,"Tyr 139Cys (2 HOM, 12 HET)","14%, 86%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 32,52.5,5.03,4,N/A,2020-2021,Tyr139Cys (1 HET),25%,"No resistance, Confirmed",https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 33,52.51,5.04,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 35,52.52,5.05,157,N/A,2020-2021,"Tyr 139Cys (13 HOM, 47 HET)","8.2%, 30%","No resistance, Confirmed",https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 37,52.53,5.06,10,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 38,52.54,5.07,18,N/A,2020-2021,"Tyr 139Cys (4 HOM, 2 HET)","22%, 11%","No resistance, Confirmed",https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 41,52.55,5.08,1,N/A,2020-2021,Tyr 139Cys (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 43,52.56,5.09,1,N/A,2020-2021,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 45,52.57,5.1,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 46,52.58,5.11,2,N/A,2020-2021,Tyr 139Cys (2 HOM),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 48,52.59,5.12,6,N/A,2020-2021,Tyr139Cys (4 HET),67%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 49,52.6,5.13,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 50,52.61,5.14,1,N/A,2020-2021,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 52,52.62,5.15,4,N/A,2020-2021,Tyr 139Cys (1 HOM),25%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 54,52.63,5.16,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 55,52.64,5.17,7,N/A,2020-2021,Tyr139Cys (2 HET),29%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 56,52.65,5.18,5,N/A,2020-2021,"Tyr 139Cys (1 HOM, 2 HET)","20%, 40%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 61,52,5.5,2,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 62,52.01,5.51,4,N/A,2020-2021,"Tyr 139Cys (1 HOM, 2 HET)","25%, 50%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 64,52.02,5.52,5,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 65,52.03,5.53,1,N/A,2020-2021,Tyr 139Cys (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 67,52.04,5.54,3,N/A,2020-2021,Tyr 139Cys (3 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 68,52.05,5.55,4,N/A,2020-2021,Tyr 139Cys (1 HOM),25%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 77,51.8,5.9,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 78,51.81,5.91,1,N/A,2020-2021,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 82,51.5,5.3,5,N/A,2020-2021,"Tyr 139Cys (2 HOM, 2 HET)","50%, 50%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 83,51.51,5.31,13,N/A,2020-2021,"Tyr 139Cys (3 HOM, 6 HET)","23%, 46%",Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 87,51.3,5.8,1,N/A,2020-2021,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 93,51.6,4.8,3,N/A,2020-2021,Tyr139Cys (1 HET),33%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 94,51.61,4.81,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 95,51.62,4.82,1,N/A,2020-2021,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 96,51.63,4.83,4,N/A,2020-2021,Tyr139Cys (1 HET),25%,Confirmed,https://doi.org/10.1002/ps.7261
+M. musculus,Netherlands,Postal Code: 97,51.64,4.84,1,N/A,2020-2021,No Mutations,-,No resistance,https://doi.org/10.1002/ps.7261
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Rotoroa Island,-36.813,175.197,12,Offshore Island,2011,No Mutations,-,No resistance,http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Waiheke Island,-36.802,175.028,14,Offshore Island,2022,Leu20Ile (1 HET),7%,Unknown,http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Moturemu Island,-36.422,174.393,15,Offshore Island,2022,Ala14Thr (3 HET),20%,Unknown,http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Shakespear Regional Park,-36.607,174.824,10,Regional Park,2023,Ala26Ser (1 HET),10%,Unknown,http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Tawharanui Regional Park,-36.372,174.831,15,Regional Park,2023,None,-,No resistance,http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus (2-3% M. m. castaneus),New Zealand,Auckland Zoo,-36.864,174.72,15,National Zoo,2023,"Ala21Thr (2 HOM), Tyr139Cys (6 HOM, 6 HET)","13%, 80%","Unknown, Confirmed",http://dx.doi.org/10.20417/nzjecol.49.3587
+M. m. domesticus,Portugal,Madeira,32.7607,-16.9595,33,N/A,2005-2020,"Tyr139Cys (8 HOM, 7 HET)",45%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Porto Santo,33.07,-16.34,12,N/A,2005-2020,"Tyr139Cys (2 HOM, 6 HET)",66%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Deserta Grande,32.5167,-16.5,4,N/A,2005-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Sao Miguel,37.7686,-25.4963,43,N/A,2005-2020,Tyr139Cys (3 HET) Leu128Ser (1 HOM),"7%, 2%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Santa Maria,36.9711,-25.1617,12,N/A,2005-2020,"Leu128Ser (1 HOM, 2 HET) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (6)",25%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Terceira,38.7197,-27.22,21,N/A,2005-2020,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1), Leu128Ser (1 HET), Tyr139Cys (3 HET)","14%, 4.7%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Graciosa,39.05,-28.0167,11,N/A,2005-2020,"Leu128Ser (1 HOM), Tyr139Cys (9 HOM), Leu128Ser+Tyr139Cys (1) ","9%, 82%, 9%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Faial,38.5833,-28.7,13,N/A,2005-2020,Tyr139Cys (10 HOM) Leu128Ser (1 HET),"77%, 8%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Pico,38.4833,-28.4167,13,N/A,2005-2020,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (5), Tyr139Cys (3 HOM, 2 HET)","38%, 38%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Sao Jorge,38.65,-28.0667,12,N/A,2005-2020,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1), Tyr139Cys (9 HOM, 2 HET)","8%, 92%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Flores,39.45,-31.2167,15,N/A,2005-2020,"Leu128Ser (7 HOM), Tyr139Cys (7 HOM), Leu128Ser+Tyr139Cys (1)","46%, 46%, 8%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Corvo,39.6833,-31.1167,9,N/A,2005-2020,"Tyr139Cys (2 HOM, 4 HET)",67%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Viana Castelo,41.6942,-8.8319,2,N/A,2005-2020,"Leu128Ser (1 HET), Leu128Ser+Tyr139Cys (1)","50%, 50%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Vila do Conde,41.3567,-8.745,1,N/A,2005-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Porto,41.1579,-8.6291,2,N/A,2005-2020,Leu128Ser+Tyr139Cys (2),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Figueira da Foz,40.15,-8.8667,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Peniche,39.3564,-9.3811,2,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (2),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Vila Franca de Xira,38.9544,-8.9853,1,N/A,2005-2020,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Lisbon,38.7223,-9.1393,14,N/A,2005-2020,Tyr139Cys (1 HOM)Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (8),"7%, 57%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Setubal,38.5244,-8.8882,3,N/A,2005-2020,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (2), Arg12Trp+Ala26Ser+Ala48Thr (1)","67%, 33%",Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Viana do Alentejo,38.3333,-8.0167,3,N/A,2005-2020,No Mutations,-,No resistance,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Elvas,38.8833,-7.1667,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Sao Teotonio,37.5,-8.6833,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Lagoa,37.1333,-8.45,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Tavira,37.1244,-7.6497,2,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),50%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Badajoz,38.8794,-6.9706,2,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),50%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Palos de la Frontera,37.2333,-6.8833,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Moguer,37.275,-6.8383,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,El Rocio,37.1333,-6.4833,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Chiclana de la Frontera,36.4167,-6.15,1,N/A,2005-2020,No Mutations,-,No resistance,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Vejer de la Frontera,36.2533,-5.9719,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Arcos de la Frontera,36.7481,-5.8011,2,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),50%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Taria,36,-5.6,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+M. m. domesticus,Portugal,Prado Del Rey,36.7833,-5.55,1,N/A,2005-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,Confirmed,https://doi.org/10.1016/j.scitotenv.2023.166290
+Mus musculus,Russia,Moscow,55.7558,37.6173,16,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Podolsk,55.4311,37.5444,4,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Noginsk,55.8667,38.45,4,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Rostov-don,47.2357,39.7015,18,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Astrakhan,46.3497,48.0408,4,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Tyumen,57.1522,68.0122,24,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Yamburg,67.95,75.1833,3,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Chita,52.0339,113.5003,19,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Tormosin,49,43,16,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Balabany,54,37,3,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Djakovka,51.5,46,1,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Bolshevik,50,45,3,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+Mus musculus,Russia,Nizhny Tsasuchey,50.5,115,7,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
+M. m. domesticus,Serbia,Stara Pazova,44.9833,20.1667,10,N/A,2016,No Mutations,-,No resistance,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Serbia,Surčin,44.8056,20.2944,10,N/A,2016,"Tyr139Cys, Leu128Ser",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Serbia,Zemun Polje,44.8731,20.3492,10,N/A,2016,"Tyr139Cys, Leu128Ser",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Serbia,Uljma,45.0167,21.0667,10,N/A,2016,No Mutations,-,No resistance,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Spain,Ciutat Vella,41.3825,2.1769,54,"Civic, Administrative, Sports and Municipal Markets",2018-2020,Tyr139Cys (2) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (52),4%,Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Eixample,41.3912,2.1624,28,"Civic, Security and Administrative Municipilities",2018-2020,Tyr139Cys (3) Leu128Ser (1) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (24),"10%, 3.5%",Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Nou Barris,41.4386,2.1762,6,"Sports, Civic Social Service Municipilities",2018-2020,Tyr139Cys (1) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (5),17%,Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Horta-Guinardó,41.4228,2.1676,15,Civic centres and Municipal Markets,2018-2020,Tyr139Cys (3) Leu128Ser (4) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (8),"33%, 44%",Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Sant Martí,41.404,2.2148,3,Civic Centres and Administrative,2018-2020,Leu128Ser (1) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (2),33%,Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Sants-Montjuïc,41.375,2.1521,4,"Civic Centres, Administrative and Municipal markets",2018-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (4),100%,No resistance,https://doi.org/10.1016/j.scitotenv.2022.157192
+M. m. domesticus,Spain,Sant Andreu,41.4355,2.1876,1,Civic centres,2018-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,A Coruña,43.3713,-8.4196,3,Coast,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,Asturias,43.3614,-5.8593,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,Navarra,42.6953,-1.6761,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,La Rioja,42.465,-2.4456,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,Valencia,39.4699,-0.3763,1,Crops,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Switzerland,Bern,46.9481,7.4474,29,N/A,2004-2009,"Arg12Trp+Ala26Ser+Ala48Thr+Tyr139Cys (1), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Tyr139Cys (1), Tyr139Cys (27)","3.4%, 3.4%, 93.2%","Suspected, Suspected, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Switzerland,Ecublens,46.5236,6.5667,11,N/A,2004-2009,"Leu128Ser (1), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (10)","9%, 91%","Confirmed, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,Switzerland,Zurich,47.3769,8.5417,8,N/A,2004-2009,"Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (3), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Tyr139Cys (1), Arg12Trp+Ala26Ser+Ala48Thr+Tyr139Cys (1), Arg12Trp+Ala26Ser+Ala48Thr (2), Tyr139Cys (1)","36%, 13%, 13%, 26%, 13%","Confirmed, Suspected, Suspected, Suspected, Confirmed",https://dx.doi.org/10.1002/ps.2254
+M. m. domesticus,United Kingdom,Winkleigh,50.9,-3.95,10,N/A,2017-2025,Leu128Ser+Tyr139Cys (4) Tyr139Cys (6),"40%, 60%","Suspected, Confirmed",https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Aschott,51,-2.8,1,N/A,2017-2025,No mutations,-,No resistance,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Queen Camel,51,-2.57,1,N/A,2017-2025,Tyr139Cys (1),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Marnhull,50.9833,-2.2833,1,N/A,2017-2025,Tyr139Cys (1),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Shoreham-by-sea,50.8333,-0.2667,1,N/A,2017-2025,Leu128Ser (1),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Alfriston,50.8,0.15,2,N/A,2017-2025,Leu128Ser (1) Leu128Ser+Tyr139Cys (1),"50%, 50%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Kent Downs National landscape,51.2,0.7,3,N/A,2017-2025,"Leu128Ser (2), Tyr139Cys (1)","67%, 33%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,London and Greater London,51.5074,-0.1278,49,N/A,2017-2025,"Leu128Ser (22), Tyr139Cys (21), Leu128Ser+Tyr139Cys (3), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Leu128Ser (2), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu  (1)","45%, 43%, 6%, 4%, 2%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Cambridge,52.2053,0.1218,12,N/A,2017-2025,"Leu128Ser+Tyr139Cys (6), L128Ser (4), Tyr139Cys (2)","50%, 33%, 17%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Worcester,52.192,-2.22,7,N/A,2017-2025,"Leu128Ser (5),  Leu128Ser+Tyr139Cys (1), Tyr139Cys (1)","71%, 14.%, 14.5%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Birmingham,52.48,-1.9025,6,N/A,2017-2025,"Leu128Ser (2), Tyr139Cys (4)","33%, 67%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Liverpool,53.4084,-2.9916,4,N/A,2017-2025,Leu128Ser (4),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Manchester,53.4808,-2.2426,6,N/A,2017-2025,"Leu128Ser (5),  Leu128Ser+Tyr139Cys (1)","83%, 17%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Sheffield,53.3811,-1.4701,3,N/A,2017-2025,"Leu128Ser (1),  Leu128Ser+Tyr139Cys (1), Tyr139Cys (1)","33%, 33%, 34%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Middlesbrough,54.5742,-1.235,2,N/A,2017-2025,Leu128Ser (2),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Newcastle,54.9783,-1.6178,1,N/A,2017-2025,Leu128Ser (1),100%,Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Edinburgh,55.9533,-3.1883,7,N/A,2017-2025,"Leu128Ser (5), Tyr139Cys (2)","71%, 29%",Confirmed,https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,United Kingdom,Dundee,56.462,-2.9707,2,N/A,2017-2025,"Tyr139Cys (1), Tyr139Cys+Leu128Ser(1)","50%, 50%","Confirmed, Suspected",https://doi.org/10.13140/RG.2.2.19406.73286/1
+M. m. domesticus,USA,"Phoenix Zoo, Arizona",33.459,-111.95,4,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,"Tombstone, Arizona",31.713,-110.068,5,N/A,2020,Leu128Ser (2 HET),40%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,"Tucson, Arizona",32.26,-111.009,38,N/A,2020,Leu128Ser (1 HET),3%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,"White Farms, Arizona",32.474,-111.268,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Irvine,33.684,-117.795,6,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Lake Casitas,34.388,-119.313,13,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Los Angeles,34.148,-118.285,20,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Washington,38.937,-77.022,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Alachua,29.793,-82.494,2,N/A,2020,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Citra,29.411,-82.11,1,N/A,2020,Leu128Ser( 1 HET),-,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Gainesville,29.652,-82.323,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Lacrosse,29.845,-82.405,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Micanopy,29.368,-82.198,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Newberry,29.646,-82.612,1,N/A,2020,Tyr139Cys (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Ocala,29.188,-82.14,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Reddick,29.51,-82.279,1,N/A,2020,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Athens,33.958,-83.373,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bogart,33.948,-83.534,1,N/A,2020,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Danielsville,34.125,-83.221,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Hull,34.016,-83.292,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Jefferson,34.119,-83.571,2,N/A,2020,"Tyr139Cys + Leu128Ser (1 HET), Leu128Ser (1 HET)","50%, 50%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Statham,33.965,-83.958,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Watkinsville,33.863,-83.409,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Clinton,41.912,-90.291,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Des Moines,41.59,-93.616,16,N/A,2020,"Leu128Ser (2 HOM, 4 HET)","12.5%, 25%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Indian Creek,41.938,-93.39,3,N/A,2020,Leu128Ser (1 HET),33%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bloomington,40.473,-88.992,5,N/A,2020,"Tyr139Cys + Leu 128Ser (1 HET), Leu128Ser (1 HET), Tyr139Cys (1 HET)","20%, 20%, 20%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Carbondale,37.711,-89.197,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Champaign,40.109,-88.242,14,N/A,2020,Tyr139Cys (1 HET),7.14%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Chicago,41.774,-87.713,21,N/A,2020,"Leu128Ser (1 HET), Tyr139Cys (3 HET)","4.8%, 14%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Collinsville,38.67,-89.986,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Danville,40.136,-87.647,5,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Decatur,39.831,-88.923,7,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Edwardville,38.825,-89.978,10,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Joliet,41.555,-88.122,9,N/A,2020,"Tyr139Cys (1 HOM, 1 HET)","11%, 11%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Normal,40.532,-88.932,4,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Palatine,42.101,-88.064,17,N/A,2020,"Leu128Ser + 139Cys (1 HET), Tyr139Cys (5 HET)","5.88%, 29%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Springfield,39.834,-89.651,8,N/A,2020,Tyr139Cys (1 HET),12.50%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Urbana,40.103,-88.212,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Fort Wayne,41.157,-85.057,6,N/A,2020,Tyr139Cys (2 HET),33%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Harlan,41.196,-84.921,1,N/A,2020,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Hoagland,40.948,-85.001,3,N/A,2020,Tyr139Cys (1 HOM),33%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Leo,41.223,-85.001,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Monroeville,40.974,-84.868,5,N/A,2020,"Tyr139Cys (2 HET), Leu128Ser (1 HET)","40%, 20%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,New Haven,41.073,-85.017,1,N/A,2020,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Terre Haute,39.35,-87.43,8,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Woodburn,41.125,-84.854,12,N/A,2020,Tyr139Cys (2 HET),16.70%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Kansas City,39.114,-94.627,9,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Frankfort,38.225,-84.897,9,N/A,2020,Leu128Ser (1 HET),11%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Louiville,37.822,-85.691,13,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Paducah,37.041,-88.711,7,N/A,2020,Leu128Ser (1 HET),14%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,"Walenberg, New Orleans",29.951,-90.065,5,N/A,2020,"Tyr139Cys (1 HOM, 2 HET)","20%, 40%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Cambridge,38.589,-76.258,6,N/A,2020,Leu128Ser (1 HET),16.70%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Fairfax,38.818,-77.268,12,N/A,2020,"Tyr139Cys (1 HET), Leu128Ser (1 HET)","8.3%, 8.3%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Stevenson,39.41,-76.713,1,N/A,2020,Leu128Ser (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Battle Creek,42.325,-85.206,10,N/A,2020,"Leu128Ser (3 HOM, 6 HET)","30%, 60%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bloominton,44.862,-93.268,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Edinal,44.875,-93.335,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Minneapolis,45.065,-92.844,17,N/A,2020,"Tyr139Cys (3 HOM, 4 HET), Leu128Ser (1 HET)","17.6%, 24%, 5.9%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,St Louis,38.451,-90.326,18,N/A,2020,Tyr139Cys (1 HET) Leu128Ser (1 HET),"5.5%, 5.5%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Burlington,35.887,-79.4,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Elon,36.103,-79.505,5,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Mebane,36.095,-79.265,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Snow Camp,35.891,-79.43,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Zebulon,35.85,-78.317,9,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Omaha,41.207,-96.052,4,N/A,2020,Leu128Ser (1 HET),25%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,North Haverhill,44.086,-72.025,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Orford,43.904,-72.139,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Piermont,43.969,-72.076,3,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Thornton,44.001,-71.633,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bordentown,40.143,-74.727,11,N/A,2020,"Leu128Ser (1 HOM, 1 HET)","9.1%, 9.1%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,New York,40.723,-74.001,86,N/A,2020,"Tyr139Cys (70 HOM), Tyr139Cys + Leu128Ser (15 HET), Leu128Ser (1 HET)","81.4%, 17.44%, 1.16%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,AirVille,39.832,-76.405,1,N/A,2020,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bethlehem,40.656,-75.333,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Coopersburg,40.51,-75.386,2,N/A,2020,Leu128Ser (1 HET),50%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Fogelsville,40.583,-75.632,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Germansville,40.702,-75.707,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Hamburg,40.511,-76.094,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Hellertown,40.579,-75.341,1,N/A,2020,Tyr139Cys (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Penn township,40.362,-79.651,1,N/A,2020,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Philadelphia,40.07,-75.215,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Quakertown,40.442,-75.336,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Cannon County,35.831,-85.979,5,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Nashville,36.068,-86.722,6,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Austin,30.268,-97.743,5,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Boerne,29.917,-98.704,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Ashland,37.759,-77.48,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Aylett,37.786,-77.105,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Chesterfield,37.367,-77.608,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Glen Allen,37.666,-77.506,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Manakin-Sabot,37.652,-77.723,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Midlothian,37.506,-77.649,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Richmond,37.546,-77.464,5,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Varina,37.45,-77.345,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Fairlee,43.908,-72.141,4,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Newbury,44.08,-72.059,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m castaneus,USA,Pheonix Zoo,33.458938,-111.950036,2,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m castaneus,USA,Tucson,32.284081,-110.932508,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m castaneus,USA,White Farms,32.473996,-111.268138,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,Bronx,40.84985,-73.86641,12,N/A,2021-2025,"Leu128Ser (1 HOM, 1 HET), Leu128Ser+Tyr139Cys (3 HET) Tyr139Cys (3 HOM, 2 HET)","17%, 25%, 42% ","Confirmed, Suspected, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Brooklyn,40.650002,-73.949997,1,N/A,2021-2025,Leu128Ser (1 HOM),100%,Confirmed,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Goshen,41.582092,-85.842979,3,N/A,2021-2025,"Trp59Leu+Leu128Ser (1 HET), Leu128Ser (1 HET), Tyr139Cys (1 HET)","33%, 34%, 33%","Suspected, Confirmed, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Manhattan,40.7834,-73.9662,17,N/A,2021-2025,"Trp59Leu (4 HOM), Trp59Leu+Tyr139Phe (1 HET), Leu128Ser (5 HOM), Tyr139Cys (1 HOM), Tyr139Phe (1 HOM)","24%, 6%, 30%, 6%, 6% ","Unknown, Suspected, Confirmed, Confirmed, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Syracuse,43.0481,-76.1474,1,N/A,2021-2025,Trp59Leu (1 HOM),100%,Unknown,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Branchville,33.2513,-80.8157,1,N/A,2021-2025,No Mutations,-,No resistance,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,New Brunswick,40.4862,-74.4518,20,N/A,2021-2025,"Trp59Leu (6 HOM, 2 HET), Tyr139Cys (10 HOM)","40%, 50%","Unknown, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Newton,41.0582,-74.7527,2,N/A,2021-2025,No Mutations,-,Unknown,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Paterson,40.9147,-74.1628,21,N/A,2021-2025,"Trp59Leu+Tyr139Cys (1 HET) Leu128Ser+Tyr139Cys (3 HET), Leu128Ser (1 HOM, 1 HET), Tyr139Cys (13 HOM, 2 HET)","4.8%, 14%,9.6%, 71% ","Suspected, Confirmed, Confirmed, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Runnemede,39.8523,-75.0679,5,N/A,2021-2025,No Mutations,-,No resistance,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Trenton,40.217,-74.743,20,N/A,2021-2025,"Trp59Leu (8 HOM), Trp59Leu+Tyr139Cys (10 HET), Tyr139Cys (2 HOM)","40%, 50%, 10%","Unkown, Suspected, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Bryn Mawr,40.0242,-75.3183,1,N/A,2021-2025,No Mutations,-,No resistance,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Furlong,40.2962,-75.0821,1,N/A,2021-2025,No Mutations,-,No resistance,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Lansdale,40.2415,-75.2838,1,N/A,2021-2025,Trp59Leu (1 HET),100%,Unknown,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Levittown,40.1551,-74.8288,5,N/A,2021-2025,Leu128Ser (1 HOM),20%,Confirmed,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Middleburg,40.7859,-77.0472,5,N/A,2021-2025,"Tyr139Cys (4 HOM, 1 HET)",100%,Confirmed,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,New Hope,40.3643,-74.9513,1,N/A,2021-2025,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Perkasie,40.3721,-75.2927,1,N/A,2021-2025,No Mutations,-,No resistance,https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Philadelphia,39.9526,-75.1652,24,N/A,2021-2025,"Ala32Val+Trp59Leu (1HET), Ala32Val+Leu128Ser (1 HET), Trp59Leu+Tyr139Cys (2 HET), Trp59Leu+Leu128Ser (1 HET), Leu128Ser (18 HOM), Tyr139Cys (1 HOM)","4.1%, 4.1%, 8.2%, 4.1%, 75%, 4.1%","Unkown, Suspected, Suspected, Suspected, Confirmed, Confirmed",https://doi.org/10.1002/ps.70833
+M. m. domesticus,USA,Reading,40.3356,-75.9269,5,N/A,2021-2025,Leu128Ser (1 HET),20%,Confirmed,https://doi.org/10.1002/ps.70833
