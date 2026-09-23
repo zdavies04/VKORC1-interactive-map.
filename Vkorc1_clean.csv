@@ -9,7 +9,7 @@ M. musculus,Bulgaria,Stara Zagora region,42.4258,26.6345,67,Farms,N/A,Not geneti
 M. musculus,Canada,Ontario,50.001,-85.001,77,City,2026,"Leu128Ser (13), Tyr139Cys (25), Leu128Ser+Tyr139Cys (14)",99%,Confirmed,https://doi.org/10.64898/2026.04.12.718056
 M. m. musculus,Czech Republic,Nebanice,50.1152831,12.475925,2,Grain store,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Litomerice,50.5316236,14.1362258,2,Mill,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
-M. m. musculus,Czech Republic,Podbořany,50.2144225,13.3955108,1,Grain store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Podbo?any,50.2144225,13.3955108,1,Grain store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Teplice,50.6604653,13.8352497,1,Grain store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Plzen,49.7517897,13.3922661,2,Brewery,2018-2023,"Tyr139Phe (1 HOM, 1 HET)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Domazlice,49.4300978,12.9504972,1,Grain store,2018-2023,Tyr139Phe (1 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
@@ -37,12 +37,12 @@ M. m. musculus,Czech Republic,Stare Nechanice,50.2413358,15.6247878,2,Grain stor
 M. m. musculus,Czech Republic,Lazne Belohrad,50.4346328,15.5844317,1,Grain store,2018-2023,Tyr139Phe (1 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Vysoke Myto,49.9604547,16.1478478,2,Bakery,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Chocen,50.0109917,16.2150083,2,Seed store,2018-2023,"Tyr139Phe (1 HOM), Ala115Thr (1 HOM)",50%,"Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
-M. m. musculus,Czech Republic,České Libchavy,50.0330164,16.3587244,1,Waste dump,2018-2023,Trp59Arg (1 HET),100%,Unknown,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,?esk� Libchavy,50.0330164,16.3587244,1,Waste dump,2018-2023,Trp59Arg (1 HET),100%,Unknown,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Letohrad,50.0277497,16.5232231,2,Feed store,2018-2023,Tyr139Phe (1 HET),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Zamberk,50.0722814,16.4594586,2,Grain store,2018-2023,"Tyr139Phe (1 HOM), Trp59Arg (1 HET), Ala115Thr (1 HET)",50%,"Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Chotebor,49.7126575,15.68161,2,Seed store,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Okarec,49.2028186,16.0919431,1,Grain store,2018-2023,No Mutations,-,No resistance,https://doi.org/10.1038/s41598-025-85447-8
-M. m. musculus,Czech Republic,Stránecká Zhoř,49.3794911,15.9280103,1,Grain store,2018-2023,No Mutations,-,No resistance,https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,Str�neck� Zho?,49.3794911,15.9280103,1,Grain store,2018-2023,No Mutations,-,No resistance,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Budisov,49.2659053,16.0068992,2,Grain store,2018-2023,"Tyr139Phe (1 HET, 1 HOM)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Chlumek,49.3745142,15.8565453,2,Farm,2018-2023,"Tyr139Phe (1 HET, 1 HOM)","50%, 50%",Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Janovice,49.4819653,15.786075,2,Farm,2018-2023,Tyr139Phe (2 HOM),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
@@ -53,7 +53,7 @@ M. m. musculus,Czech Republic,Mikulov,48.7881094,16.6794997,1,Seed store,2018-20
 M. m. musculus,Czech Republic,Velke Hosteradky,49.0410289,16.8639903,2,Farm,2018-2023,"Tyr139Phe (1 HET, 1 HOM), Trp59Cys (2 HET), Asp36His (1 HET)","50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Drnholec,48.8644211,16.4703244,2,Grain store,2018-2023,Tyr139Phe (1 HOM),50%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Opava,49.9118353,17.9685769,2,Grain store,2018-2023,"Tyr139Phe (1 HET, 1 HOM), Arg61Trp (1 HET)","50%, 50%","Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
-M. m. musculus,Czech Republic,Heřmanovice,50.1993333,17.3831122,2,Farm,2018-2023,"Ser52Tyr (1 HET), Ala115Thr (1 HOM)","50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
+M. m. musculus,Czech Republic,He?manovice,50.1993333,17.3831122,2,Farm,2018-2023,"Ser52Tyr (1 HET), Ala115Thr (1 HOM)","50%, 50%","Confirmed, Unknown, Unknown",https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Dolni Lhota,49.1363375,17.8084503,2,Grain store,2018-2023,Tyr139Phe (2 HET),100%,Confirmed,https://doi.org/10.1038/s41598-025-85447-8
 M. m. musculus,Czech Republic,Martinice,49.3093247,17.6135439,2,Feed store,2018-2023,"Tyr139Phe (1 HET), Gly2Ala (1 HET)","50%, 50%","Confirmed, Unknown",https://doi.org/10.1038/s41598-025-85447-8
 M. m. domesticus,Denmark,Denmark,56.2639,9.5018,160,N/A,1972,Not genetically tested,-,Suspected,https://doi.org/10.1016/0006-2952(94)90130-9
@@ -115,7 +115,7 @@ M. musculus,Italy,Vulcano,38.4044,14.9625,9,Island,2005-2023,No mutations,-,No r
 M. m. domesticus,Kerguelen Archipelago,Cochon,-49.4772,70.0475,4,Island,2026,No Mutations,-,No resistance,This study
 M. m. domesticus,Kerguelen Archipelago,Guillou,-49.4833,69.8167,13,Island,2026,No Mutations,-,No resistance,This study
 M. m. domesticus,Kerguelen Archipelago,Isthme Bas,-49.4,70.3,14,Island,2026,No Mutations,-,No resistance,This study
-M. m. domesticus,Kerguelen Archipelago,Port-aux-Francais,-49.35,70.2166,3,Island,2026,No Mutations,-,No resistance,This study
+M. m. domesticus,Kerguelen Archipelago,Port-aux-Fran�ais,-49.35,70.2166,3,Island,2026,No Mutations,-,No resistance,This study
 Mus musculus,Lebanon,North Lebanon,34.4367,35.8497,3,N/A,2018-2019,Tyr139Cys (2),66%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
 Mus musculus,Lebanon,Mount Lebanon,33.8833,35.5833,23,N/A,2018-2019,Leu128Ser (8),35%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
 Mus musculus,Lebanon,South Lebanon,33.2744,35.2038,2,N/A,2018-2019,Leu128Ser (1),50%,Confirmed,https://dx.doi.org/10.1038/s41598-022-26638-5
@@ -233,7 +233,7 @@ M. m. domesticus,Spain,Horta-Guinardó,41.4228,2.1676,15,Civic centres and Munic
 M. m. domesticus,Spain,Sant Martí,41.404,2.2148,3,Civic Centres and Administrative,2018-2020,Leu128Ser (1) Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (2),33%,Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
 M. m. domesticus,Spain,Sants-Montjuïc,41.375,2.1521,4,"Civic Centres, Administrative and Municipal markets",2018-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (4),100%,No resistance,https://doi.org/10.1016/j.scitotenv.2022.157192
 M. m. domesticus,Spain,Sant Andreu,41.4355,2.1876,1,Civic centres,2018-2020,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1),100%,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
-M. m. domesticus,Spain,A Coruña,43.3713,-8.4196,3,Coast,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
+M. m. domesticus,Spain,A Coru�a,43.3713,-8.4196,3,Coast,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
 M. m. domesticus,Spain,Asturias,43.3614,-5.8593,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
 M. m. domesticus,Spain,Navarra,42.6953,-1.6761,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
 M. m. domesticus,Spain,La Rioja,42.465,-2.4456,2,Rural,2018-2020,No mutations,-,No resistance,https://doi.org/10.1016/j.chemosphere.2022.136021
