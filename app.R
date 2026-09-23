@@ -7,7 +7,7 @@
 #          OR open in RStudio and click "Run App"
 # Deploy:  rsconnect::deployApp("vkorc1_mutation_map.R")
 #
-# IMPORTANT: Keep vkorc1_clean.csv in the SAME folder as this script.
+# IMPORTANT: Keep Vkorc1_clean.csv in the SAME folder as this script.
 #
 # ── 0. INSTALL / LOAD PACKAGES ───────────────────────────────────────────────
 
@@ -27,7 +27,7 @@ library(stringr)
 
 # ── 1. LOAD DATA ─────────────────────────────────────────────────────────────
 
-df <- read_csv("vkorc1_clean.csv", show_col_types = FALSE)
+df <- read_csv("Vkorc1_clean.csv", show_col_types = FALSE)
 
 # Stable per-site ID (survives filtering) used to link table rows -> map popups
 df$Row_ID <- seq_len(nrow(df))
