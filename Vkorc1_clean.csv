@@ -65,7 +65,7 @@ M. m. domesticus,Finland,Loimaa,60.8478,23.0547,4,Rural,2016-2019,Tyr139Cys and 
 M. m. domesticus,Finland,Koski,60.6558,23.1278,6,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,50%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
 M. m. domesticus,Finland,Punkalaidun,61.1139,23.1028,12,Rural,2016-2019,Tyr139Cys and Leu128Ser noted but not stated which areas had what mutation,50%,Confirmed,https://dx.doi.org/10.1080/09670874.2023.2234324
 M. m. domesticus,France,Brittany,48.202,-2.9326,31,N/A,2016,"Trp59Gly (2 HOM), Leu124Met (4 HET, 7 HOM), Trp59Gly + Leu124Met (6 HOM)"," 6.5%, 35%, 19%",Suspected,https://doi.org/10.1002/ece3.2829
-M. m. domesticus,France,North,50.6292,3.0573,82,N/A,2016,"Ala26Thr (1 HET, 3 HOM), Leu128Ser (7 HET, 28 HOM), Ala26Thr + Leu128Ser (3 HET, 14 HOM), Tyr139Cys (6 HET, 4 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (7 HOM), Ala26Ser + Arg61Leu (1 HOM), Ala26Ser + Leu128Ser (2 HOM)","4.9%, 43%, 21%, 12%, 8.5%, 1.2%, 2.4%","Suspected, Confirmed, Suspected, Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
+M. m. domesticus,France,North,50.6292,3.0573,82,N/A,2016,"Ala26Thr (1 HET, 3 HOM), Leu128Ser (7 HET, 28 HOM), Ala26Thr+Leu128Ser (3 HET, 14 HOM), Tyr139Cys (6 HET, 4 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (7 HOM), Ala26Ser+Arg61Leu (1 HOM), Ala26Ser+Leu128Ser (2 HOM)","4.9%, 43%, 21%, 12%, 8.5%, 1.2%, 2.4%","Suspected, Confirmed, Suspected, Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
 M. m. domesticus,France,Marne,48.9633,4.3667,6,N/A,2016,"Trp59Gly (2 HOM), Leu128Ser (2 HET), Trp59Gly + Leu128Ser (1 HOM)","33%, 33%, 16%","Suspected, Confirmed, Suspected",https://doi.org/10.1002/ece3.2829
 M. m. domesticus,France,South West,44.8378,-0.5792,29,N/A,2016,"Tyr139Cys (1 HET, 4 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (1 HET)","17%, 3.4%","Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
 M. m. domesticus,France,South East,43.2965,5.3698,118,N/A,2016,"Ala26Ser (1 HOM), Leu128Ser (7 HET, 4 HOM), Tyr139Cys (8 HET, 18 HOM), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (3 HET, 50 HOM)","0.8%, 9.3%, 22%, 45%","Suspected, Confirmed, Confirmed, Confirmed",https://doi.org/10.1002/ece3.2829
@@ -94,7 +94,7 @@ M. m. domesticus,Germany,Saarbrucken,49.2333,7,26,N/A,2004-2009,"Trp59Ser (2), L
 M. m. domesticus,Germany,Sassenberg,51.9833,8.05,21,N/A,2004-2009,Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu+Arg58Gly,5%,Suspected,https://dx.doi.org/10.1002/ps.2254
 M. m. domesticus,Germany,Stuttgart,48.7775,9.18,20,N/A,2004-2009,"Leu128Ser (15), Arg12Trp+Ala26Ser+Ala48Thr+Leu128Ser (4), Arg12Trp+Ala26Ser+Ala48Thr+Tyr139Cys (1)","75%, 20%, 5%","Confirmed, Suspected, Suspected",https://dx.doi.org/10.1002/ps.2254
 M. m. domesticus,Germany,Wesseling,50.8333,6.9667,11,N/A,2004-2009,Leu128Ser (11),100%,Confirmed,https://dx.doi.org/10.1002/ps.2254
-M. m. domesticus,Greece,Greece,39,22,7,N/A,2011,No mutations,-,No resistance,https://doi.org/10.1016/j.cub.2011.06.043
+M. m. domesticus,Greece,Greece,39.001,22.001,7,N/A,2011,No mutations,-,No resistance,https://doi.org/10.1016/j.cub.2011.06.043
 M. m. domesticus,Ireland,Dublin,53.3498,-6.2603,23,"Farm, ILAC Centre, Tesco, Food warehouse, Musgraves, Factory (Engineering), House",2015-2017,"Leu128Ser (9 HET, 5 HOM) Tyr139Cys (8 HET, 3 HOM)","39%, 21%, 35%, 13%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
 M. m. domesticus,Ireland,Kildare,53.1593,-6.9109,10,"Bakery, Business park, Bakery",2015-2017,Leu128Ser (4 HET) Tyr139Cys (2 HET),"40%, 20%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
 M. m. domesticus,Ireland,Meath,53.6055,-6.6564,7,"Factory (Engineering), Ardboyne Hotel, Factory (Milk products), Food premises",2015-2017,"Leu128Ser (4 HET, 1 HOM) Tyr139Cys (5 HET, 4 HOM)","57%, 14%, 71%, 57%","Confirmed, Confirmed",https://doi.org/10.1038/s41598-018-22815-7
@@ -223,8 +223,8 @@ Mus musculus,Russia,Djakovka,51.5,46,1,N/A,2020,No mutations,-,No resistance,htt
 Mus musculus,Russia,Bolshevik,50,45,3,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
 Mus musculus,Russia,Nizhny Tsasuchey,50.5,115,7,N/A,2020,No mutations,-,No resistance,https://dx.doi.org/10.1134/s0012496621030029
 M. m. domesticus,Serbia,Stara Pazova,44.9833,20.1667,10,N/A,2016,No Mutations,-,No resistance,https://dx.doi.org/10.1002/ps.4027
-M. m. domesticus,Serbia,Surčin,44.8056,20.2944,10,N/A,2016,"Tyr139Cys, Leu128Ser",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
-M. m. domesticus,Serbia,Zemun Polje,44.8731,20.3492,10,N/A,2016,"Tyr139Cys, Leu128Ser",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Serbia,Surčin,44.8056,20.2944,10,N/A,2016,"Tyr139Cys, Leu128Ser, Ala21Thr+Tyr139Cys",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
+M. m. domesticus,Serbia,Zemun Polje,44.8731,20.3492,10,N/A,2016,"Tyr139Cys, Leu128Ser, Ala21Thr+Tyr139Cys",Not Available,Confirmed,https://dx.doi.org/10.1002/ps.4027
 M. m. domesticus,Serbia,Uljma,45.0167,21.0667,10,N/A,2016,No Mutations,-,No resistance,https://dx.doi.org/10.1002/ps.4027
 M. m. domesticus,Spain,Ciutat Vella,41.3825,2.1769,54,"Civic, Administrative, Sports and Municipal Markets",2018-2020,"Tyr139Cys (2), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (52)",4%,Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
 M. m. domesticus,Spain,Eixample,41.3912,2.1624,28,"Civic, Security and Administrative Municipilities",2018-2020,"Tyr139Cys (3), Leu128Ser (1), Arg12Trp+Ala26Ser+Ala48Thr+Arg61Leu (24)","10%, 3.5%",Confirmed,https://doi.org/10.1016/j.scitotenv.2022.157192
@@ -330,7 +330,7 @@ M. m. domesticus,USA,Orford,43.904,-72.139,1,N/A,2020,No Mutations,-,No resistan
 M. m. domesticus,USA,Piermont,43.969,-72.076,3,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
 M. m. domesticus,USA,Thornton,44.001,-71.633,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
 M. m. domesticus,USA,Bordentown,40.143,-74.727,11,N/A,2020,"Leu128Ser (1 HOM, 1 HET)","9.1%, 9.1%",Confirmed,https://doi.org/10.1002/ps.6012
-M. m. domesticus,USA,New York,40.723,-74.001,86,N/A,2020,"Tyr139Cys (70 HOM), Tyr139Cys + Leu128Ser (15 HET), Leu128Ser (1 HET)","81.4%, 17.44%, 1.16%",Confirmed,https://doi.org/10.1002/ps.6012
+M. m. domesticus,USA,New York,40.723,-74.001,86,N/A,2020,"Tyr139Cys (70 HOM), Tyr139Cys + Leu128Ser (15 HET), Leu128Ser (1 HET), Ile104Val (4 HET)","81.4%, 17.44%, 1.16%",Confirmed,https://doi.org/10.1002/ps.6012
 M. m. domesticus,USA,AirVille,39.832,-76.405,1,N/A,2020,Leu128Ser (1 HET),100%,Confirmed,https://doi.org/10.1002/ps.6012
 M. m. domesticus,USA,Bethlehem,40.656,-75.333,1,N/A,2020,No Mutations,-,No resistance,https://doi.org/10.1002/ps.6012
 M. m. domesticus,USA,Coopersburg,40.51,-75.386,2,N/A,2020,Leu128Ser (1 HET),50%,Confirmed,https://doi.org/10.1002/ps.6012
