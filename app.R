@@ -88,6 +88,7 @@ mutation_aliases <- c(
   "Ala32Val"  = "A32V",
   "Asp36His"  = "D36H",
   "Glu37Gly"  = "E37G",
+  "Ala48Thr"  = "A48T",
   "Ser52Tyr"  = "S52Y",
   "Phe55Val"  = "F55V",
   "Arg58Gly"  = "R58G",
@@ -135,6 +136,7 @@ mutation_display_names <- c(
   "A32V" = "Ala32Val",
   "D36H" = "Asp36His",
   "E37G" = "Glu37Gly",
+  "A48T" = "Ala48Thr",
   "S52Y" = "Ser52Tyr",
   "F55V" = "Phe55Val",
   "R58G" = "Arg58Gly",
@@ -503,23 +505,30 @@ extract_mutation_entries_codes <- function(mutations_string) {
     unique()
 }
 
-# Does a site (identified by its list of reported entry-codes) match a
-# selected dropdown value?
-#  - "__ALL__"                -> always matches
-#  - selected value is a full combo (contains "+") -> must match one of the
+# Does a site (identified by its list of reported entry-codes) match ANY of
+# the (possibly several) selected dropdown values?
+#  - no values selected               -> nothing matches
+#  - a selected value is a full combo (contains "+") -> must match one of the
 #    site's reported entries EXACTLY (so picking "R12W+A26S+A48T" never
 #    matches a site whose only entry is "R12W+A26S+A48T+R61L")
-#  - selected value is a single mutation code -> matches if that code is one
-#    of the components of ANY of the site's reported entries
+#  - a selected value is a single mutation code -> matches if that code is
+#    one of the components of ANY of the site's reported entries
 mutation_entry_matches <- function(entry_codes, filter_mutation) {
-  if (identical(filter_mutation, "__ALL__")) return(TRUE)
+  # No mutations selected -> nothing matches (consistent with the other
+  # multi-select filters: deselecting everything shows an empty result).
+  if (length(filter_mutation) == 0) return(FALSE)
   if (length(entry_codes) == 0) return(FALSE)
-  if (filter_mutation %in% entry_codes) return(TRUE)
-  if (!grepl("+", filter_mutation, fixed = TRUE)) {
-    components <- unlist(strsplit(entry_codes, "+", fixed = TRUE))
-    return(filter_mutation %in% components)
-  }
-  FALSE
+
+  # TRUE if the site matches ANY of the (possibly several) selected values,
+  # so a multi-select acts as an OR across the chosen mutations/combos.
+  any(vapply(filter_mutation, function(fm) {
+    if (fm %in% entry_codes) return(TRUE)
+    if (!grepl("+", fm, fixed = TRUE)) {
+      components <- unlist(strsplit(entry_codes, "+", fixed = TRUE))
+      return(fm %in% components)
+    }
+    FALSE
+  }, logical(1)))
 }
 
 # Per-site list of correctly-separated reported mutation entries (one-letter
@@ -675,13 +684,29 @@ ui <- fluidPage(
         h4("🔍 Filters"),
 
         tags$label("Country", class = "filter-label"),
-        selectInput("filter_country", label = NULL,
-                    choices = c("All countries" = "__ALL__", sort(unique(df$Country))),
-                    selected = "__ALL__"),
+        pickerInput("filter_country", label = NULL,
+                    choices  = sort(unique(df$Country)),
+                    selected = sort(unique(df$Country)),
+                    multiple = TRUE,
+                    options  = pickerOptions(
+                      actionsBox = TRUE,
+                      liveSearch = TRUE,
+                      selectedTextFormat = "count > 3",
+                      countSelectedText = "{0} countries selected",
+                      noneSelectedText = "No countries selected"
+                    )),
 
         tags$br(),
         tags$label("Mutations", class = "filter-label"),
-        selectInput("filter_mutation", label = NULL,
+        pickerInput("filter_mutation", label = NULL,
+                    multiple = TRUE,
+                    options  = pickerOptions(
+                      actionsBox = TRUE,
+                      liveSearch = TRUE,
+                      selectedTextFormat = "count > 3",
+                      countSelectedText = "{0} mutations selected",
+                      noneSelectedText = "No mutations selected"
+                    ),
                     choices = {
   # Build the dropdown from BOTH:
   #   1) every known single mutation in mutation_display_names, and
@@ -713,15 +738,16 @@ ui <- fluidPage(
   # Entry_Codes exactly in filtered_data() below.
   mutation_labels <- vapply(vals, primary_mutation_label, character(1))
 
-  c(
-    "All mutations" = "__ALL__",
-    stats::setNames(
-      vals,             # submitted value  -> one-letter code(s), e.g. "R12W" or "R12W+A26S+A48T+R61L"
-      mutation_labels   # displayed label  -> three-letter name(s), e.g. "Arg12Trp"
-    )
+  stats::setNames(
+    vals,             # submitted value  -> one-letter code(s), e.g. "R12W" or "R12W+A26S+A48T+R61L"
+    mutation_labels   # displayed label  -> three-letter name(s), e.g. "Arg12Trp"
   )
 },
-                    selected = "__ALL__"),
+                    selected = {
+                      vals <- unique(unlist(df$Entry_Codes))
+                      vals <- vals[!is.na(vals) & vals != ""]
+                      sort_mutations(vals)
+                    }),
 
         tags$br(),
         tags$label("Resistance Level", class = "filter-label"),
@@ -769,10 +795,9 @@ server <- function(input, output, session) {
 
   # Filtered reactive dataset
   filtered_data <- reactive({
-    req(input$filter_country, input$filter_mutation, input$filter_resistance,
-        input$filter_species, input$filter_year)
+    req(input$filter_resistance, input$filter_species, input$filter_year)
     df %>% filter(
-      input$filter_country == "__ALL__" | Country == input$filter_country,
+      Country %in% input$filter_country,
       vapply(Entry_Codes, mutation_entry_matches, logical(1),
              filter_mutation = input$filter_mutation),
       input$filter_resistance == "__ALL__" | Resistance_Level == input$filter_resistance,
