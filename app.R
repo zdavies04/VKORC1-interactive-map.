@@ -517,7 +517,10 @@ mutation_entry_matches <- function(entry_codes, filter_mutation) {
   # No mutations selected -> nothing matches (consistent with the other
   # multi-select filters: deselecting everything shows an empty result).
   if (length(filter_mutation) == 0) return(FALSE)
-  if (length(entry_codes) == 0) return(FALSE)
+
+  # A site with NO reported mutations only matches if the special "None"
+  # option ("__NONE__") is among the selected values.
+  if (length(entry_codes) == 0) return("__NONE__" %in% filter_mutation)
 
   # TRUE if the site matches ANY of the (possibly several) selected values,
   # so a multi-select acts as an OR across the chosen mutations/combos.
@@ -738,15 +741,20 @@ ui <- fluidPage(
   # Entry_Codes exactly in filtered_data() below.
   mutation_labels <- vapply(vals, primary_mutation_label, character(1))
 
-  stats::setNames(
-    vals,             # submitted value  -> one-letter code(s), e.g. "R12W" or "R12W+A26S+A48T+R61L"
-    mutation_labels   # displayed label  -> three-letter name(s), e.g. "Arg12Trp"
+  # Prepend a "None" option so sites that explicitly report no mutations
+  # (empty Entry_Codes) can be included in the map/table.
+  c(
+    stats::setNames("__NONE__", "None (no mutations)"),
+    stats::setNames(
+      vals,             # submitted value  -> one-letter code(s), e.g. "R12W" or "R12W+A26S+A48T+R61L"
+      mutation_labels   # displayed label  -> three-letter name(s), e.g. "Arg12Trp"
+    )
   )
 },
                     selected = {
                       vals <- unique(unlist(df$Entry_Codes))
                       vals <- vals[!is.na(vals) & vals != ""]
-                      sort_mutations(vals)
+                      c("__NONE__", sort_mutations(vals))
                     }),
 
         tags$br(),
